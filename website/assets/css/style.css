@@ -1,3 +1,17 @@
 body{
     background: #BDBDBD;
+} 
+.first_heading { 
+    background-color: white; 
+    padding: 50px; 
+} 
+.imagen1 {
+    background-image: url(../img/1.jpg);
+    height:350px; 
+    background-size: cover; 
+    border-radius: 100%;
+} 
+.title {
+    text-decoration-color: gray;
+    
 }
