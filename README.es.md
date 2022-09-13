@@ -57,15 +57,23 @@ La [Html-Template-Engine library](https://github.com/alesanchezr/html-template-e
 
 
 Contact
+
     Monica Castillo
+
 Firs heading
-    
+
 Footer
 
 Navbar
+
     Venus Grijalba
+
 Portafolio
+
     Julian Salcedo
+
 Services
+
     Sebastian Jimenez
+    
 Tagline
